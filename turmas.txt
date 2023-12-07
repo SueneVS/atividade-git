@@ -5,3 +5,8 @@ Turma B
 Turma C
 Turma D
 Turma E
+Turma F
+Turma G
+Turma H
+Turma I
+Turma J

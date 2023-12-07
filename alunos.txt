@@ -15,3 +15,8 @@ Lucia
 Jimena
 Sara
 Samantha
+Ana
+Maria 
+João
+Pedro
+Eduardo
